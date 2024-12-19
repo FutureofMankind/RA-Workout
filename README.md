@@ -1,11 +1,13 @@
 Учёт тренировок
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/m6c5sqoou3s67prg/branch/main?svg=true)](https://ci.appveyor.com/project/FutureofMankind/ra-workout/branch/main)
+
 Вы решили реализовать небольшое приложение, которое хранит данные о тренировках и прогулках, которые вы совершаете в течение недели.
 
 Общий интерфейс должен выглядеть следующим образом:
 
-![Steps](./assets/steps.png)
+![Steps](pic/steps.png)
 
 ## Добавление данных
 
